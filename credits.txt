@@ -1,0 +1,42 @@
+
+
+
+Key Features
+Bootstrap 5
+HTML5 and CSS3
+Hero Header
+100% responsive
+Cross browser compatibility
+Single page website
+On hover effects
+Content Slider
+Testimonial carousels
+Call to action button
+Footer navigation
+Social media icons
+Google fonts
+
+In the box
+1 HTML Pages
+All demo images
+All HTML & CSS files
+Javascript source files
+Library and plugin files
+
+Libraries & Plugins
+Bootstrap 5
+Google fonts
+jQuery
+Owl carousel
+Remixicon
+Boxicons
+
+Assets used in this website.
+💻Pexels: https://www.pexels.com/
+💻Unsplash: https://unsplash.com/
+💻Freepik: https://www.freepik.com/
+
+All the resources are used in this project are free for PERSONAL and COMMERCIAL use. 
+Some of the resource requireq attribution (images downloaded from https://www.freepik.com/, https://www.flaticon.com/)
+Enjoy.
+
